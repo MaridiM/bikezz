@@ -1,0 +1,5 @@
+export { default as BikeCategories } from './ui/BikeCategories'
+export { default as PopularBike } from './ui/PopularBike'
+export { default as Header } from './ui/Header'
+export { default as Footer } from './ui/Footer'
+export { default as Hero } from './ui/Hero'
